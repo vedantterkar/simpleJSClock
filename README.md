@@ -12,6 +12,6 @@ Just Clone the Code and Open `index.html` in your browser which supports `HTML5`
 
 
 # Images
-
-![Sample Watch Face1](clkimgs/clock8.png?raw=true "Sample Watch Face")
-
+<p align='center'>
+  <img src="clkimgs/clock8.png" width="100" height="100" title="Sample Clock 1">
+</p>
