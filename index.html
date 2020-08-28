@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Clock Using Plain JS!</title>
+    <meta charset="UTF-8">
+    <link href="clkcss/clkcss.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="clkjs/clkjs.js"></script>
+   
+</head>
+<body>
+    <center><h1>A Simple JS Clock</h1><hr /></center>
+    <div class="watchBody">
+        <div class="watchCenter"></div>
+        <div class="secondHand"></div>
+        <div class="minuteHand"></div>
+        <div class="hourHand"></div>
+        <div class="hourText"></div>
+        <div class="minuteText"></div>
+        <div class="secondText"></div>
+    </div>
+    <form name="demo" id="form" action="#!">
+        <input type="file" id="faceClock" text="Choose your photo" accept="image/*" style="visibility: hidden;" onchange="readURL(this);"/>
+    </form>
+    <div class="clockFaces">
+    <div class="clockFaceCnt selected"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt"></div>
+    <div class="clockFaceCnt">
+        <div style="display: table; width: 100%; height: 100%; vertical-align: middle;" onclick="changeClockFace(event, 9); event.stopPropagation();return false;">
+            <br /><br />
+            <h1>+</h1>
+            <i>Add Photo</i>
+        </div>
+    </div>
+    </div>
+</body>
+</html>
