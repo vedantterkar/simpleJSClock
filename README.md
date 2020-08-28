@@ -36,4 +36,4 @@ As this is just developed in spare time as fun project, there is lot of scope fo
 
 # Licensing and Costing
 
-Free for everyone! 
+Free to everyone! Feel free to change and use. You can also submit Pull requests. Lets grow together coders!
