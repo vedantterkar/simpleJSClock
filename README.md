@@ -12,6 +12,23 @@ Just Clone the Code and Open `index.html` in your browser which supports `HTML5`
 
 
 # Images
+
 <p align='center'>
-  <img src="clkimgs/clock8.png" width="100" height="100" title="Sample Clock 1">
+  <img src="clkimgs/clock8.png" width="200" height="200" title="Sample Clock 1" />
+    <img src="clkimgs/clock0.png" width="200" height="200" title="Sample Clock" />
+    <img src="clkimgs/clock1.jpg" width="200" height="200" title="Sample Clock" />
+    <img src="clkimgs/clock2.jpeg" width="200" height="200" title="Sample Clock" />
+    <img src="clkimgs/clock3.png" width="200" height="200" title="Sample Clock" />
+    <img src="clkimgs/clock4.jpg" width="200" height="200" title="Sample Clock" />
+    <img src="clkimgs/clock5.jpg" width="200" height="200" title="Sample Clock" />
+    <img src="clkimgs/clock6.jpeg" width="200" height="200" title="Sample Clock" />
+      <img src="clkimgs/clock7.png" width="200" height="200" title="Sample Clock" />
 </p>
+
+
+# Customization
+
+You can customize the clock face by adding image from your computer as well
+
+# Future Scope
+
