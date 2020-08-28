@@ -32,3 +32,8 @@ You can customize the clock face by adding image from your computer as well
 
 # Future Scope
 
+As this is just developed in spare time as fun project, there is lot of scope for code optimization and cleaning. I want to develop it further and export this as a library to other devs which can simply plug and play with it in their webpages.
+
+# Licensing and Costing
+
+Free for everyone! 
